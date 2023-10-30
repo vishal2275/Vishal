@@ -1,3 +1,3 @@
-file2.txt is being updated on branch1 again updated
+file2.txt is being updated on branch1,
 
 
